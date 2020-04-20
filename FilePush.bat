@@ -5,5 +5,6 @@ git add .
 git commit -m %msg%
 git pull
 git push origin master
-echo 提交完成，此次上传：%msg%
+echo 提交完成，此次上传：[%msg%]
 echo "--------End!--------"
+pause
