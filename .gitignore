@@ -40,3 +40,6 @@ build/
 *.gif
 *.JPEG
 *.txt
+
+*.rar
+*.zip
